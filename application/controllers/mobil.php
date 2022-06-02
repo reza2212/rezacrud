@@ -11,3 +11,7 @@ class mobil extends CI_Controller {
 		echo "Segment 5 adalah = " . $this->uri->segment('5') . "<br/>"; //uri segment	
 	}
 }
+
+
+
+//salsadkaskdasjkdsad
